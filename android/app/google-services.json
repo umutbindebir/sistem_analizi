@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581412422072",
+    "project_id": "obsproje38",
+    "storage_bucket": "obsproje38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581412422072:android:0be7f4ae1c4fe616ab0f4d",
+        "android_client_info": {
+          "package_name": "com.obs.proje.obs_proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581412422072-9qiob0f16c7j1a8f1eomaf6kkd7382us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtu2fjLz5d-vJ3SDyCi5EoCYITEUj5MpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581412422072-9qiob0f16c7j1a8f1eomaf6kkd7382us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
